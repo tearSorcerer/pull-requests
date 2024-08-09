@@ -1,1 +1,3 @@
 New file for the next awesome feature
+
+Change to test the protection rules.
